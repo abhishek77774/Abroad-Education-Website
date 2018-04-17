@@ -4,5 +4,5 @@ A comprehensive Web site which is user friendly and lucrative in searching abroa
 # Technology Used
 HTML, CSS, PHP, JavaScript, Ajax, JQuery
 
-# Database USed
+# Database Used
 MySQL
